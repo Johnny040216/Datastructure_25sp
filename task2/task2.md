@@ -131,7 +131,7 @@ void tidyup(Node* head) {
 
 ```
 
-# 代码和运行结果
+# 调试代码和运行结果
 ![alt text](image-2.png)
 ```
 int main() {
